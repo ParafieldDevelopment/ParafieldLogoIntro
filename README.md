@@ -19,7 +19,7 @@ Developed by [@cjkdawg](https://github.com/cjkdawg)
 ```
 pip install manim
 ```
-Make sure `ffmpeg` is installed, added to your system's PATH.
+Make sure `ffmpeg` is installed, and added to your system's PATH.
 
 ## Running the animation
 
