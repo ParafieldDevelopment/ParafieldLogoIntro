@@ -6,7 +6,7 @@ Developed by [@cjkdawg](https://github.com/cjkdawg)
 
 ## Preview
 
-![Preview](https://i.imgur.com/Jf7oF2h.gif)
+![Preview](https://i.imgur.com/wHJsrlT.gif)
 
 ## Prerequisites
 
@@ -15,11 +15,14 @@ Developed by [@cjkdawg](https://github.com/cjkdawg)
 - [FFmpeg](https://ffmpeg.org/download.html) (required for video rendering)
 
 ## Installation
+
 ```
 pip install manim
 ```
 Make sure `ffmpeg` is installed, added to your system's PATH.
+
 ## Running the animation
+
 From the root of the repository, run:
 ```
 manim main.py

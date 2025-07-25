@@ -13,3 +13,4 @@ class ParafieldStudios(Scene):
             run_time=3,
         )
         self.wait(2)
+        self.play(FadeOut(logo, text), run_time=1.5)
